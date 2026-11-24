@@ -16,7 +16,7 @@ Build board-level context
 4
 00:00:16,000 --> 00:00:27,000
 The shortest path crosses a plane split
-Detours add length and vias. What comes first?
+Detours add length and vias. Which has priority?
 
 5
 00:00:27,000 --> 00:00:31,000
